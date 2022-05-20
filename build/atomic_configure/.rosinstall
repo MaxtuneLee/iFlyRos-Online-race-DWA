@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros/rosForIfly/devel/setup.sh

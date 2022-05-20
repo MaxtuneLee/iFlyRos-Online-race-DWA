@@ -1,0 +1,2 @@
+gazebo_map:gazebo_nav:gazebo_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ros/rosForIfly/devel -DCMAKE_INSTALL_PREFIX=/home/ros/rosForIfly/install -G Unix Makefiles
